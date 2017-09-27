@@ -1,0 +1,3 @@
+controllers:
+  - com.jinternals.restframework.DemoController
+  - com.jinternals.restframework.TestController
